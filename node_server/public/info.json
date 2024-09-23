@@ -1,0 +1,19 @@
+{
+    "songAmt": 2,
+    "songs": [
+        {
+            "fileName": "scale.txt",
+            "name": "Music Scale",
+            "artist": null,
+            "album": null,
+            "length": null
+        },
+        {
+            "fileName": "twinkle_twinkle.txt",
+            "name": "Twinkle Twinkle",
+            "artist": "Jane Taylor",
+            "album": null,
+            "length": null
+        }
+    ]
+}
